@@ -39,6 +39,10 @@ public class Operaciones {
     
         public void Div(){
         result=num1/num2;
-        System.out.println(num1+ "  "+num2+" = "+result);
+        System.out.println(num1+ " / "+num2+" = "+result);
+    }
+        public void Potencia(){
+        result=Math.pow(num1, num2);
+        System.out.println(num1+ " ^ "+num2+" = "+result);
     }
 }
