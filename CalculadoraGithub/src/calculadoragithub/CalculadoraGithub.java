@@ -19,6 +19,7 @@ public class CalculadoraGithub {
         a.Numeros();
         a.Suma();
         a.Resta();
+        a.Multip();
     }
     
 }
