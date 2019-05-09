@@ -21,7 +21,7 @@ public class CalculadoraGithub {
         a.Resta();
         a.Multip();
         a.Div();
-        a.Cubo();
+        a.Potencia();
     }
     
 }
