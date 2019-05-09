@@ -22,6 +22,7 @@ public class CalculadoraGithub {
         a.Multip();
         a.Div();
         a.Potencia();
+        a.Push();
     }
     
 }

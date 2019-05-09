@@ -42,7 +42,10 @@ public class Operaciones {
         System.out.println(num1+ " / "+num2+" = "+result);
     }
         public void Potencia(){
-        result=Math.pow(num1, num2);
+        result=(int) Math.pow(num1, num2);
         System.out.println(num1+ " ^ "+num2+" = "+result);
     }
+        public void Push(){
+            System.out.println("Hemos subido el repositorio exitosamente");
+        }
 }
