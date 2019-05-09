@@ -20,6 +20,7 @@ public class CalculadoraGithub {
         a.Suma();
         a.Resta();
         a.Multip();
+        a.Div();
     }
     
 }
